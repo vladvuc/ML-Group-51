@@ -2,3 +2,5 @@
 *.csv
 .env
 *.png
+*.ipynb_checkpoints
+
