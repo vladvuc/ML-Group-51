@@ -3,4 +3,8 @@
 .env
 *.png
 *.ipynb_checkpoints
+/wandb
+*.pickle
+
+*.log
 
