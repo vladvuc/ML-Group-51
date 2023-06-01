@@ -19,12 +19,12 @@ brotli-bin=1.0.9=h5eee18b_7
 brotlipy=0.7.0=py310h7f8727e_1002
 bzip2=1.0.8=h7b6447c_0
 ca-certificates=2023.01.10=h06a4308_0
-certifi=2022.12.7=py310h06a4308_0
+certifi=2022.12.07=py310h06a4308_0
 cffi=1.15.1=py310h5eee18b_3
 charset-normalizer=2.0.4=pyhd3eb1b0_0
 comm=0.1.2=py310h06a4308_0
 contourpy=1.0.5=py310hdb19cb5_0
-cryptography=39.0.1=py310h9ce1e76_0
+cryptography=41.0.0=py310h9ce1e76_0
 cycler=0.11.0=pyhd3eb1b0_0
 dbus=1.13.18=hb2f20db_0
 debugpy=1.5.1=py310h295c915_0
@@ -45,7 +45,7 @@ icu=58.2=he6710b0_3
 idna=3.4=py310h06a4308_0
 intel-openmp=2021.4.0=h06a4308_3561
 ipykernel=6.19.2=py310h2f386ee_0
-ipython=8.10.0=py310h06a4308_0
+ipython=8.13.2=py310h06a4308_0
 ipython_genutils=0.2.0=pyhd3eb1b0_1
 ipywidgets=7.6.5=pyhd3eb1b0_1
 jedi=0.18.1=py310h06a4308_1
@@ -153,7 +153,7 @@ qtconsole=5.4.0=py310h06a4308_0
 qtpy=2.2.0=py310h06a4308_0
 qtwebkit=5.212=h4eab89a_4
 readline=8.2=h5eee18b_0
-requests=2.28.1=py310h06a4308_0
+requests=2.31.0=py310h06a4308_0
 scikit-learn=1.2.1=pypi_0
 scipy=1.10.1=pypi_0
 seaborn=0.12.2=py310h06a4308_0
